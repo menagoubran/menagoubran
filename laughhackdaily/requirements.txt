@@ -1,0 +1,19 @@
+# LaughHackDaily Auto-Production System
+# Install with: pip install -r requirements.txt
+
+# AI & APIs
+anthropic>=0.70.0
+elevenlabs>=2.0.0
+requests>=2.31.0
+
+# Video Processing
+moviepy>=2.0.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# Optional: Pexels API wrapper
+pexels-api>=1.0.0
