@@ -1,0 +1,164 @@
+🔍 Researching topic...
+✍️ Generating script...
+📦 Creating production package...
+
+==================================================
+PRODUCTION PACKAGE:
+==================================================
+# TikTok Production Package: Psychology-Based First Impressions
+
+## 1. ELEVENLABS SCRIPT
+```
+[Energetic, confident tone]
+
+Psychology says you have just 100 milliseconds... to make a first impression.
+
+[Brief pause]
+
+But here's how to make those milliseconds count.
+
+[Slight pause, maintain energy]
+
+Only seven percent of your impact... comes from your words.
+
+Thirty-eight percent is your tone... but fifty-five percent... is pure body language.
+
+Stand tall... shoulders back... genuine smile... and look them in the eye.
+
+Your posture literally speaks... before you even open your mouth.
+
+[Pause, shift to explanatory tone]
+
+Your brain has mirror neurons... that automatically copy what you see.
+
+So subtly match their speaking pace... and energy level.
+
+If they're calm and measured... don't come in super high energy.
+
+If they're enthusiastic... bring that same vibe.
+
+This creates instant... subconscious connection.
+
+[Pause, authoritative tone]
+
+The first thing you say... has the strongest impact on their memory.
+
+Don't start with "um"... or small talk about the weather.
+
+Lead with your strength.
+
+Share something interesting about yourself... ask an engaging question... or mention a relevant achievement right upfront.
+
+[Pause, encouraging tone]
+
+Try one of these techniques today... and comment which one worked best for you.
+
+Your future self... will thank you.
+```
+
+## 2. VISUAL MAPPING (Pexels Keywords by Timestamp)
+
+**0-5s (Hook):**
+- stopwatch ticking
+- close-up eyes making contact
+- timer countdown visual
+
+**5-17s (Principle 1):**
+- confident business handshake
+- good vs bad posture comparison
+- professional eye contact
+- person standing tall with shoulders back
+
+**17-29s (Principle 2):**
+- animated conversation between two people
+- networking event social interaction
+- people matching energy levels
+- mirroring body language demonstration
+
+**29-41s (Principle 3):**
+- confident professional introduction
+- strong handshake close-up
+- elevator pitch scenario
+- memorable first meeting
+
+**41-46s (CTA):**
+- thumbs up gesture
+- phone with engagement notifications
+- success celebration
+- social media comments
+
+## 3. TEXT OVERLAY TIMING
+
+**0:01-0:04:** "100 MILLISECONDS"
+**0:05-0:08:** "7-38-55 RULE"
+**0:09-0:12:** "7% WORDS"
+**0:13-0:15:** "38% TONE"
+**0:16-0:18:** "55% BODY LANGUAGE"
+**0:19-0:22:** "MIRROR NEURONS"
+**0:23-0:26:** "MATCH THEIR ENERGY"
+**0:27-0:30:** "PRIMACY EFFECT"
+**0:31-0:34:** "LEAD WITH STRENGTH"
+**0:35-0:38:** "NO 'UM' OR SMALL TALK"
+**0:39-0:42:** "TRY TODAY!"
+**0:43-0:45:** "COMMENT BELOW ⬇️"
+
+## 4. CAPCUT INSTRUCTIONS
+
+### Import & Setup:
+1. Import all Pexels video clips (1080x1920 vertical)
+2. Set timeline to 45 seconds
+3. Add upbeat background music (trending audio recommended)
+
+### Video Editing:
+1. **Hook (0-5s):** Quick cuts between stopwatch and eye contact clips
+2. **Principle 1 (5-17s):** 
+   - Show posture comparison split-screen at 8s
+   - Add handshake clip at 12s
+   - Eye contact close-up at 15s
+3. **Principle 2 (17-29s):**
+   - Animated conversation at 18s
+   - Energy matching demonstration at 23s
+   - Networking scene at 27s
+4. **Principle 3 (29-41s):**
+   - Professional introduction at 30s
+   - Strong handshake at 35s
+   - Confident speaking at 38s
+5. **CTA (41-45s):** Engagement visuals with phone/thumbs up
+
+### Text Overlays:
+1. Font: Bold, sans-serif (Montserrat or similar)
+2. Size: Large enough to read on mobile
+3. Colors: White text with black outline or colored background
+4. Animation: Pop-in effect for emphasis
+5. Position: Center or upper third of screen
+
+### Effects:
+- Add zoom-in transitions between key points
+- Use beat sync for text animations
+- Apply subtle color grading for professional look
+- Add motion blur for dynamic transitions
+
+### Audio:
+- Keep voiceover prominent in mix
+- Background music at 20-30% volume
+- Add subtle whoosh sounds for text appearances
+
+## 5. HASHTAGS
+
+Primary: #FirstImpressions #BodyLanguage #Psychology #Communication #SocialSkills #ConfidenceBoost #PersonalDevelopment #NetworkingTips
+
+Secondary: #ProfessionalTips #CareerAdvice #SelfImprovement #LifeHacks #BusinessTips #LeadershipSkills #PublicSpeaking #SocialAnxiety
+
+Trending: #FYP #Viral #TikTokMadeMeDoIt #LifeHack #MindsetShift #GlowUp #MainCharacterEnergy #ThatGirl #SoftSkills
+
+**Final Hashtag String:**
+#FirstImpressions #BodyLanguage #Psychology #FYP #SocialSkills #ConfidenceBoost #PersonalDevelopment #NetworkingTips #LifeHacks #Viral #Communication #ProfessionalTips #MindsetShift #CareerAdvice #SelfImprovement #MainCharacterEnergy #PublicSpeaking #BusinessTips #LeadershipSkills #ThatGirl
+
+## 6. POSTING STRATEGY
+
+**Best Times:** 6-10 AM, 7-9 PM (EST)
+**Caption:** "Which tip will you try first? 🤔 Save this for your next networking event! 💼"
+**Duration:** 42-45 seconds (optimal for engagement)
+**Format:** Vertical 9:16 ratio, 1080x1920px
+
+✅ Saved to output/latest_package.txt
