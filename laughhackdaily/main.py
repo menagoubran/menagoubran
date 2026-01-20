@@ -79,7 +79,11 @@ async def laughhackdaily_agent(topic):
 
 # Run the agent
 if __name__ == "__main__":
-    topic = input("Enter content topic: ")
+    import sys
+    if len(sys.argv) > 1:
+        topic = " ".join(sys.argv[1:])
+    else:
+        topic = input("Enter content topic: ")
     result = asyncio.run(laughhackdaily_agent(topic))
     print("\n" + "="*50)
     print("PRODUCTION PACKAGE:")
