@@ -1,0 +1,154 @@
+🔍 Researching topic...
+✍️ Generating script...
+📦 Creating production package...
+
+==================================================
+PRODUCTION PACKAGE:
+==================================================
+# COMPLETE PRODUCTION PACKAGE
+## "3 Psychology Tricks for Better Conversations"
+
+---
+
+## 1. ELEVENLABS SCRIPT
+*[Copy this exactly into ElevenLabs - includes natural pauses and emphasis]*
+
+```
+Want to never run out of things to say? [pause] Here are three psychology-backed conversation starters that actually work.
+
+[pause]
+
+Number one: Find Common Ground. Instead of saying "nice weather," try this. [pause] Find something you both share. 
+
+"I love that book you're reading, the ending totally shocked me!" 
+
+People are naturally drawn to similarity. It's called the similarity-attraction effect.
+
+[pause]
+
+Number two: Ask Better Questions. Don't ask yes or no questions. Ask this instead.
+
+"What's the most interesting thing that happened to you this week?"
+
+Open questions create investment. They have to think, they have to share, they become engaged.
+
+[pause]
+
+Number three: Respond With Energy. When they share something good, don't just say "cool." 
+
+Match their energy! "That sounds incredible! How did you discover that?"
+
+Active constructive responding builds real connection.
+
+[pause]
+
+Try one of these tonight. Which technique will you use first? Comment below!
+
+Follow for more psychology tips that actually work.
+```
+
+---
+
+## 2. VISUAL MAPPING (Pexels Keywords)
+
+**0-5s:** awkward conversation, social anxiety, uncomfortable people
+**5-8s:** people talking coffee shop, split screen conversation
+**8-12s:** friends laughing, book reading, happy conversation
+**12-15s:** similarity attraction, people connecting
+**15-18s:** engaged conversation, side by side comparison
+**18-22s:** people asking questions, animated discussion
+**22-25s:** investment conversation, thinking person
+**25-28s:** enthusiastic response, contrast reactions
+**28-32s:** active listening, excited conversation, energy matching
+**32-35s:** connection building, happy people
+**35-40s:** confident conversation, successful social interaction
+
+---
+
+## 3. TEXT OVERLAY TIMING
+
+**0-2s:** "Never run out of things to say?"
+**2-5s:** "3 Psychology Tricks ✨"
+
+**5-7s:** "1. FIND COMMON GROUND"
+**8-11s:** "Instead of 'nice weather'..."
+**11-14s:** "Find what you SHARE"
+**14-16s:** "Similarity-Attraction Effect"
+
+**16-18s:** "2. ASK BETTER QUESTIONS"
+**18-21s:** "No yes/no questions"
+**21-24s:** "What's the most interesting thing...?"
+**24-26s:** "Open questions = Investment"
+
+**26-28s:** "3. RESPOND WITH ENERGY"
+**28-31s:** "Don't just say 'cool'"
+**31-34s:** "MATCH THEIR ENERGY!"
+**34-36s:** "Active Constructive Responding"
+
+**36-38s:** "Which will you try first?"
+**38-40s:** "Follow for more psychology tips!"
+
+---
+
+## 4. CAPCUT INSTRUCTIONS
+
+### Step 1: Import & Setup
+- Import voiceover audio
+- Set project to 9:16 ratio (1080x1920)
+- Timeline: 40 seconds total
+
+### Step 2: Video Clips
+- 0-5s: Awkward conversation clip, add slight zoom + blur edges
+- 5-15s: Split-screen effect (Template: "Comparison")
+- 15-25s: Quick cuts every 2-3 seconds, use "Dynamic" transitions
+- 25-35s: Contrast split (Template: "Before/After")
+- 35-40s: Confident person clip, add "Success" filter
+
+### Step 3: Text Animations
+- Font: "Impact" or "Bebas Neue"
+- Animation: "Pop" for main points, "Typewriter" for questions
+- Colors: White text, black stroke (3px)
+- Size: Large for numbers (120), medium for details (80)
+
+### Step 4: Effects & Transitions
+- Add "Glitch" effect at 0s, 15s, 25s (0.3s duration)
+- Use "Zoom Blur" transitions between sections
+- Add "Particle" overlay during psychology terms
+- Background music: Upbeat, 20% volume
+
+### Step 5: Audio Enhancement
+- Normalize voiceover audio
+- Add subtle echo effect (10% wet)
+- Fade in/out music at beginning/end
+
+### Step 6: Color Grading
+- Increase contrast by 15%
+- Boost saturation by 20%
+- Apply "Cinematic" LUT at 30% opacity
+
+---
+
+## 5. HASHTAGS
+
+Primary: #ConversationTips #PsychologyHacks #SocialSkills
+Secondary: #CommunicationSkills #ConfidenceBoost #SocialAnxiety
+Trending: #FYP #Viral #LifeHacks #SelfImprovement #Psychology
+Niche: #ConversationStarters #SocialPsychology #PeopleSkills #Charisma #NetworkingTips #SocialConnection #MindsetShift #PersonalDevelopment #SocialIntelligence #ConfidentCommunication
+
+**Recommended Hashtag String:**
+#ConversationTips #PsychologyHacks #SocialSkills #FYP #CommunicationSkills #ConfidenceBoost #Viral #SocialAnxiety #LifeHacks #ConversationStarters #SelfImprovement #Psychology #Charisma #PeopleSkills #SocialConnection
+
+---
+
+## 6. POSTING CHECKLIST
+
+- [ ] Export at 1080x1920, 30fps
+- [ ] Add captions (auto-generate + edit)
+- [ ] Include hook in description
+- [ ] Post during peak hours (7-9pm)
+- [ ] Engage with early comments immediately
+- [ ] Pin top comment asking "Which trick surprised you most?"
+
+**Caption:** "These psychology tricks changed my social game 🧠✨ Which one are you trying first? #ConversationTips #PsychologyHacks #SocialSkills"
+
+✅ Saved to output/latest_package.txt
