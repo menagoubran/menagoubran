@@ -21,6 +21,8 @@ from .pipeline_stages import (
 )
 from .pipeline_controller import PipelineController
 from .topic_generator import TopicGenerator, get_keywords_for_theme
+from .video_editor import VideoEditor
+from .auto_produce import AutoProducer
 
 __all__ = [
     "JobQueue",
@@ -36,4 +38,6 @@ __all__ = [
     "PipelineController",
     "TopicGenerator",
     "get_keywords_for_theme",
+    "VideoEditor",
+    "AutoProducer",
 ]

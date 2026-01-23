@@ -5,11 +5,10 @@ anthropic>=0.18.0
 elevenlabs>=0.3.0
 requests>=2.31.0
 
+# Text-to-Speech
+gTTS>=2.3.0
+
 # Video Processing
 moviepy>=1.0.3
 pillow>=10.0.0
 numpy>=1.24.0
-
-# Utilities (standard library, listed for documentation)
-# json, os, re, time, random, pathlib, datetime, typing
-# concurrent.futures, logging, fcntl
