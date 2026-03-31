@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franco Arabic to Arabic Transliterator</title>
+    <link rel="stylesheet" href="transliteration.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Franco Arabic Transliterator</h1>
+            <p>Convert phonetic Arabic (Arabizi) to Arabic script</p>
+        </div>
+
+        <div class="transliteration-area">
+            <div class="input-section">
+                <label class="section-label">
+                    <span class="flag">🔤</span>
+                    Franco Arabic (Arabizi)
+                </label>
+                <textarea
+                    id="francoInput"
+                    placeholder="Type Franco Arabic here... (e.g., ahlan, ezayak?)"
+                    spellcheck="false"
+                ></textarea>
+            </div>
+
+            <div class="output-section">
+                <label class="section-label">
+                    <span class="flag">🇪🇬</span>
+                    Arabic Script
+                </label>
+                <div id="arabicOutput"></div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn btn-primary" onclick="copyToClipboard()" id="copyBtn">
+                📋 Copy Arabic Text
+            </button>
+            <button class="btn btn-secondary" onclick="clearAll()">
+                🗑️ Clear
+            </button>
+        </div>
+
+        <div class="info-section">
+            <h3>Character Mapping Guide</h3>
+            <div class="mapping-grid">
+                <div class="mapping-item">
+                    <div class="franco">2</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">أ</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">3</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">ع</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">5</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">خ</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">6</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">ط</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">7</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">ح</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">9</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">ق</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">sh</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">ش</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">gh</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">غ</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">kh</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">خ</div>
+                </div>
+                <div class="mapping-item">
+                    <div class="franco">th</div>
+                    <div class="arrow">→</div>
+                    <div class="arabic-char">ث</div>
+                </div>
+            </div>
+
+            <div class="examples-section">
+                <h4>Try These Examples:</h4>
+                <div id="examples"></div>
+            </div>
+        </div>
+
+        <div class="guide-section">
+            <h4>Quick Guide:</h4>
+            <ul>
+                <li><strong>Numbers:</strong> Use 2, 3, 5, 6, 7, 9 for special Arabic letters</li>
+                <li><strong>Combinations:</strong> sh, gh, kh, th for composite sounds</li>
+                <li><strong>Capital letters:</strong> S, D, T, Z for emphatic sounds (ص، ض، ط، ظ)</li>
+                <li><strong>Common words:</strong> Many Egyptian/Levantine words are recognized automatically</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="transliteration.js"></script>
+</body>
+</html>
